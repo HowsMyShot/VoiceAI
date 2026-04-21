@@ -180,7 +180,7 @@ This isn't a weekend hack. It's a production-minded system built by someone who 
 
 ## About the Builder
 
-I'm a self-taught builder who's been shipping production systems for over a decade. I built this system in roughly 15 days, working a few hours each evening after my day job. I use AI-assisted development to move fast without sacrificing architecture quality.
+I'm a builder who's been shipping production systems for over a decade. I built this system in roughly 15 days, working a few hours each evening after my day job. I use AI-assisted development to move fast without sacrificing architecture quality.
 
 **11 years as Network Specialist at TELUS** — infrastructure at scale  
 **6 years running killfeed.dev** — profitable B2B SaaS, 4,100+ servers, 3.3M player profiles, 300K log rows/day  
